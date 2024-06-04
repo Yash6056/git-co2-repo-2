@@ -1,0 +1,19 @@
+ADDING A NEW REPO USING GITHUB
+
+creating a repo consists of 3 steps
+step 1 : Git add files
+step 2 : Git commit
+step 3 : Git space commit
+         or
+step 3 : Git push
+
+
+
+
+
+
+
+>  git commit -m"example 2nd commit"
+
+
+> git add is mandatory to add the file name
